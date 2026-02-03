@@ -15,5 +15,4 @@ public class Wall_Pionts : MonoBehaviour
             _audio.Play();
         }
     }
-
 }
